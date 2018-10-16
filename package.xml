@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>lidar_slam_3d</name>
+  <version>0.0.0</version>
+  <description>The lidar_slam_3d package</description>
+  <maintainer email="ning@todo.todo">ning</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>nav_msgs</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>tf</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>nav_msgs</run_depend>
+
+</package>
